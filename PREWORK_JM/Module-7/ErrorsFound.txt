@@ -1,0 +1,12 @@
+<h1> tag was missing in jumbotron
+Removed the instruction panel
+Panel body was missing <p> tag
+The wikipedia <a href=""> was missing the link
+Img was missing the < and > at the beginning and end
+The src for .js file was incorrectly named
+Each string in booFacts needed a set of quotations
+Boo's favorite things to eat was missing <li> tags for each item
+id for the colors were incorrect in the html
+In logic.js pink needed quotations around it
+boxGrow and boxShrink needed quotations around click
+Cleaned boxGrow to be all on one line
