@@ -35,3 +35,9 @@ p#multi{
     color: green;
     font-family: fantasy;
 }
+
+img#styledImage{
+    border-style: groove;
+    border-width: 3px;
+    border-color: orange;
+}
