@@ -17,6 +17,21 @@ p#big{
 p#tiny{
     font-size: 10px;
 }
-#bold{
-    font-weight: 100px;
+p#bold{
+    font-weight: bold;
+}
+
+p#fancy{
+    font-family: fantasy;
+}
+
+p#multi{
+    font-weight: bold;
+    font-size: 40px;
+    color: orange;
+}
+
+.styledFont{
+    color: green;
+    font-family: fantasy;
 }
